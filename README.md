@@ -1,17 +1,17 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliemichel/LearnWebGPU/main/images/webgpu-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliemichel/LearnWebGPU/main/images/webgpu-light.svg">
-    <img alt="Learn WebGPU Logo" src="images/webgpu-dark.svg" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiekick/NoodlesPlate.help/main/images/NoodlesPlate-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiekick/NoodlesPlate.help/main/images/NoodlesPlate-light.svg">
+    <img alt="Learn NoodlesPlate Logo" src="images/NoodlesPlate-dark.svg" width="200">
   </picture>
 
-  <a href="https://github.com/eliemichel/LearnWebGPU">LearnWebGPU</a> &nbsp;|&nbsp; <a href="https://github.com/eliemichel/WebGPU-Cpp">WebGPU-C++</a> &nbsp;|&nbsp; <a href="https://github.com/eliemichel/glfw3webgpu">glfw3webgpu</a> &nbsp;|&nbsp; <a href="https://github.com/eliemichel/WebGPU-binaries">WebGPU-binaries</a>
+  <a href="https://github.com/aiekick/NoodlesPlate.help">NoodlesPlate.help</a> &nbsp;|&nbsp; <a href="https://github.com/aiekick/NoodlesPlate-Cpp">NoodlesPlate-C++</a> &nbsp;|&nbsp; <a href="https://github.com/aiekick/glfw3webgpu">glfw3webgpu</a> &nbsp;|&nbsp; <a href="https://github.com/aiekick/NoodlesPlate-binaries">NoodlesPlate-binaries</a>
 </div>
 
-Learn WebGPU
+Learn NoodlesPlate
 ============
 
-This is the source files of the website [https://eliemichel.github.io/LearnWebGPU](https://eliemichel.github.io/LearnWebGPU).
+This is the source files of the website [https://aiekick.github.io/NoodlesPlate.help](https://aiekick.github.io/NoodlesPlate.help).
 
 Building
 --------
